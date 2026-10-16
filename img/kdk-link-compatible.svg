@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="148" height="20" viewBox="0 0 148 20" role="img" aria-label="KDK-Link Compatible">
+  <title>KDK-Link Compatible</title>
+  <clipPath id="badge-shape">
+    <rect width="148" height="20" rx="3"/>
+  </clipPath>
+  <g clip-path="url(#badge-shape)">
+    <path fill="#1b1e19" d="M0 0h70v20H0z"/>
+    <path fill="#c5fa53" d="M70 0h78v20h-78z"/>
+  </g>
+  <g font-family="Verdana, 'Noto Sans JP', 'Yu Gothic', sans-serif" font-size="11" text-anchor="middle">
+    <text x="35" y="14" fill="#fff">KDK-Link</text>
+    <text x="109" y="14" fill="#1b1e19">Compatible</text>
+  </g>
+</svg>
+
+
+
